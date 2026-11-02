@@ -1,6 +1,6 @@
 # Number Guesser
 
-A simple console-based **Java application built with Maven** where the player tries to guess a randomly generated number.
+A console-based Java application built with Maven that challenges users to guess a randomly generated number.
 
 ## Features
 
